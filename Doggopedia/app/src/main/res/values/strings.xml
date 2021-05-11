@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Doggopedia</string>
+
+    <string name="breed1">Golden Retriever</string>
+    <string name="breed2">German Shepherd Dog</string>
+    <string name="breed3">Rottweiler</string>
+    <string name="breed4">Great Dane</string>
+    <string name="breed5">Border Collie</string>
+
+    <string name="breed1_male_height">23-24 inches for male</string>
+    <string name="breed1_female_height">21.5-22.5 inches for female</string>
+    <string name="breed2_male_height">24-26 inches for male</string>
+    <string name="breed2_female_height">22-24 inches for female</string>
+    <string name="breed3_male_height">24-27 inches for male</string>
+    <string name="breed3_female_height">22-25 inches for female</string>
+    <string name="breed4_male_height">30-32 inches for male</string>
+    <string name="breed4_female_height">28-30 inches for female</string>
+    <string name="breed5_male_height">19-22 inches for male</string>
+    <string name="breed5_female_height">18-21 inches for female</string>
+
+    <string name="breed1_male_weight">65-75 pounds for male</string>
+    <string name="breed1_female_weight">55-65 pounds for female</string>
+    <string name="breed2_male_weight">65-90 pounds for male</string>
+    <string name="breed2_female_weight">50-70 pounds for female</string>
+    <string name="breed3_male_weight">95-135 pounds for male</string>
+    <string name="breed3_female_weight">80-100 pounds for female</string>
+    <string name="breed4_male_weight">140-175 pounds for male</string>
+    <string name="breed4_female_weight">110-140 pounds for female</string>
+    <string name="breed5_male_weight">30-55 pounds for male</string>
+    <string name="breed5_female_weight">30-55 pounds for female</string>
+
+    <string name="breed1_life">10-12 years</string>
+    <string name="breed2_life">12-14 years</string>
+    <string name="breed3_life">9-10 years</string>
+    <string name="breed4_life">7-10 years</string>
+    <string name="breed5_life">12-15 years</string>
+
+    <string name="breed1_temperament">Friendly, Intelligent, Devoted</string>
+    <string name="breed2_temperament">Confident, Courageous, Smart</string>
+    <string name="breed3_temperament">Loyal, Loving, Confident Guardian</string>
+    <string name="breed4_temperament">Friendly, Patient, Dependable</string>
+    <string name="breed5_temperament">Affectionate, Smart, Energetic</string>
+
+    <string name="breed1_fact">The Golden Retriever, an exuberant Scottish gundog of great beauty,
+        stands among America’s most popular dog breeds. They are serious workers at hunting and field work,
+        as guides for the blind, and in search-and-rescue, enjoy obedience and other competitive events,
+        and have an endearing love of life when not at work.</string>
+    <string name="breed2_fact">Generally considered dogkind’s finest all-purpose worker, the German Shepherd
+        Dog is a large, agile, muscular dog of noble character and high intelligence. Loyal, confident,
+        courageous, and steady, the German Shepherd is truly a dog lover’s delight.</string>
+    <string name="breed3_fact">The Rottweiler is a robust working breed of great strength descended from the
+        mastiffs of the Roman legions. A gentle playmate and protector within the family circle, the Rottie
+        observes the outside world with a self-assured aloofness.</string>
+    <string name="breed4_fact">The easygoing Great Dane, the mighty “Apollo of Dogs,” is a total joy to live
+        with—but owning a dog of such imposing size, weight, and strength is a commitment not to be entered
+        into lightly. This breed is indeed great, but not a Dane.</string>
+    <string name="breed5_fact">A remarkably bright workaholic, the Border Collie is an amazing dog—maybe a
+        bit too amazing for owners without the time, energy, or means to keep it occupied. These energetic
+        dogs will settle down for cuddle time when the workday is done.</string>
+</resources>
